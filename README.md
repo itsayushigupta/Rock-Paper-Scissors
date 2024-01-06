@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-First JavaScript game 
+Interactive JavaScript game 
